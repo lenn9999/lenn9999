@@ -2,7 +2,7 @@
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning physics
 - 💞️ I’m looking to collaborate on physics
-- 📫 How to reach me physics?
+- 📫 How to reach me twitter
 
 <!---
 lenn9999/lenn9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
